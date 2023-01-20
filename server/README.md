@@ -24,3 +24,7 @@ npx tsx src/server.ts
   "scripts": {
     "dev": "tsx watch src/server.ts"
   },
+
+  npm i zod
+
+  npm i dayjs
